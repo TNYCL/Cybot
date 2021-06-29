@@ -7,7 +7,7 @@ public class Options {
 	
 	public static String pullLink = "https://www.tnycl.com/";
 	
-	public static String token = "TOKEN";
+	public static String token = null;
 	public static String prefix = "c.";
 	
 	public static String tweetChannelID = "853559135642583043";
